@@ -1,1 +1,1 @@
-alx system devops
+this is shell basics

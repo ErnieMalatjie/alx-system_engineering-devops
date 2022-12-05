@@ -1,2 +1,2 @@
 #!/bin/bash
-"*.js" -delete
+find . -extension "*.js" -delete

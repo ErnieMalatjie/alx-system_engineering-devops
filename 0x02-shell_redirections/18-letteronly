@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 --file-type [fF]*[gG] | grep -v /$
+ls -1 --file-type [fF]*[gG] | grep -v 

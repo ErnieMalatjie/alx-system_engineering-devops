@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 --file-type [fF]*[gG] | grep -v 
+grep -i "^[a-z]" /etc/ssh/sshd_config 
